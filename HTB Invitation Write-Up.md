@@ -22,7 +22,7 @@ En essayant de se créer un compte, on tombe donc sur cette page :
 
 Me trouvant sur une page web, je décide donc de commencer par inspecter la console JS de la page. Nous tombons alors sur cette image en ASCII art :
 
-![Images/DEBUT.png](Images/DEBUT.png)
+![Images/DEBUT.png](Images/debut.png)
 
 C'est donc le début de l'aventure.
 
